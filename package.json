@@ -1,0 +1,25 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "## Project Description",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/kdher/TeamProfileGenerator.git"
+	},
+  "author": "Eder",
+  "license": "ISC",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^8.2.0",
+    "jest": "^27.5.1"
+  }
+}
