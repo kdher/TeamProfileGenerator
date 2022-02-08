@@ -1,6 +1,6 @@
 # Team Profile Generator 
 
-Deployed video: 
+Deployed video: https://drive.google.com/file/d/1y-Tul4jsBVooRy-uYCrzxtmFSiynfi5I/view?usp=sharing
 
 ## Description
 
